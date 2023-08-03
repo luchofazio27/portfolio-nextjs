@@ -12,6 +12,9 @@ export default function Document() {
           rel="stylesheet"
         />
         <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+        <link rel="preload" href="/img/guitarLA.jpg" as="image1" />
+          <link rel="preload" href="/img/amanecer.jpg" as="image2" />
+          <link rel="preload" href="/img/imagenCriptos.png" as="image3" />
       </Head>
       <body>
         <Main />

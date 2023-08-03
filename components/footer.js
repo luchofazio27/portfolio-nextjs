@@ -1,9 +1,49 @@
-
+import Image from "next/image"
+import Link from "next/link"
+import styles from "../styles/footer.module.css"
 
 export default function Footer() {
   return (
-    <div>
-      footer
-    </div>
+    <footer className={styles.footer}>
+      <div className={`container ${styles.content}`}>
+        <nav className={styles.navigation}>
+        <Link href="https://www.linkedin.com/in/luciano-fazio" target="_black">
+          <Image
+            src="/img/linkedin-icon.svg"
+            width={50}
+            height={30}
+            alt="linkedin"
+          />
+        </Link>
+        <Link href="https://github.com/luchofazio27" target="_black">
+          <Image
+            src="/img/github-icon.svg"
+            width={50}
+            height={30}
+            alt="github"
+          />
+        </Link>
+        <Link href="https://app.netlify.com/teams/luchofazio27/sites" target="_black">
+          <Image
+            src="/img/netlify-icon.svg"
+            width={50}
+            height={30}
+            alt="netlify"
+          />
+        </Link>
+        <Link href="https://vercel.com/dashboard" target="_black">
+          <Image
+            src="/img/vercel-icon.svg"
+            width={50}
+            height={30}
+            alt="vercel"
+          />
+        </Link>
+        </nav>
+      </div>
+    </footer>
   )
 }
+
+
+

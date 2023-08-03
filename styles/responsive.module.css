@@ -1,0 +1,33 @@
+
+.mySwiper {
+  width: 100%;
+}
+.swipItem {
+  height: 700px;
+  text-align: center;
+  font-size: 18px;
+  margin: 1px;
+  padding: 5px 50px;
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+.darkBackground {
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.swipItem .detail {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    text-shadow: 0.0.5px rgba(255, 255, 255, 0.5);
+}
+
