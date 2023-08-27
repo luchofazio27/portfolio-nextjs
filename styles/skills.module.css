@@ -1,0 +1,10 @@
+.content {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5rem;
+}
+.title {
+    color: var(--primary);
+    text-align: center;
+    text-decoration: underline;
+}

@@ -16,7 +16,7 @@ export default function Home() {
           <div className={styles.content}>
             <h2 className="heading">Perfil</h2>
             <p>
-              <h3>Luciano Nicolas Fazio</h3>
+              <h2>Luciano Nicolas Fazio</h2>
               Programador Web Full Stack Junior luchofazio@gmail.com<br></br>
               1125273909<br></br>
               San Fernando, Bs. As.<br></br>
