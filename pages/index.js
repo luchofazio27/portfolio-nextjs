@@ -3,6 +3,7 @@ import Layout from "@/components/layout";
 import Carousel from "@/components/carousel";
 import styles from "../styles/index.module.css";
 import ResponsiveCarousel from "@/components/responsive";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -17,8 +18,19 @@ export default function Home() {
             <h2 className="heading">Perfil</h2>
             <p>
               <h2>Luciano Nicolas Fazio</h2>
-              Programador Web Full Stack Junior luchofazio@gmail.com<br></br>
-              1125273909<br></br>
+              Programador Web Full Stack Junior<br></br>
+              <Image
+            src="/img/icon-correo.png"
+            width={20}
+            height={10}
+            alt="mail"
+          /> luchofazio@gmail.com<br></br>
+              <Image
+            src="/img/icon-whatsapp.png"
+            width={22}
+            height={10}
+            alt="whatsapp"
+          /> 1125273909<br></br>
               San Fernando, Bs. As.<br></br>
               <br></br>
               Actualmente fortaleciendo habilidades en el mundo del desarrollo

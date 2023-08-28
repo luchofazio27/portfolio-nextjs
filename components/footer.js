@@ -5,7 +5,8 @@ import styles from "../styles/footer.module.css"
 export default function Footer() {
   return (
     <footer className={styles.footer}>
-      <div className={`container ${styles.content}`}>
+      <h7 className={`container ${styles.title}`}>Mis Redes</h7>
+      <div className={`container ${styles.content}`}> 
         <nav className={styles.navigation}>
         <Link href="https://www.linkedin.com/in/luciano-fazio" target="_black">
           <Image
@@ -40,6 +41,10 @@ export default function Footer() {
           />
         </Link>
         </nav>
+        <h7 className={styles.copyright}>Sitio realizado con NextJS</h7>
+        <div className={styles.info}>
+          <h7>Contactame:</h7>
+        </div>
       </div>
     </footer>
   )
