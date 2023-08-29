@@ -30,4 +30,9 @@
     color: #ffffff;
     text-shadow: 0.0.5px rgba(255, 255, 255, 0.5);
 }
+.web {
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+  text-shadow: 0.0.5px rgba(255, 255, 255, 0.5);
+}
 

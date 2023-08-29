@@ -3,8 +3,8 @@
     "responsive": [
       {
         "id": 1,
-        "title": "Swiper Carousel Example",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+        "title": "GuitarLA - Remix",
+        "text": "Proyecto creado con Remix Run, creando una API con Strapi CMS con PostgreSQL y Cloudinary",
         "backgroundImage": "/img/guitarLA.jpg"
       },
       {
@@ -15,8 +15,8 @@
       },
       {
         "id": 3,
-        "title": "Swiper Carousel Example",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
+        "title": "React - Criptos",
+        "text": "Proyecto React, Cotizador de Criptomonedas en Vite, Styled Components y Custom Hooks",
         "backgroundImage": "/img/imagenCriptos.png"
       }
     ]

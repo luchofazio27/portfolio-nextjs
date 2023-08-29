@@ -12,6 +12,7 @@ export default function ResponsiveCarousel() {
         showIndicators={true}
         infiniteLoop={true}
         dynamicHeight={false}
+        showThumbs={false}
         className={styles.mySwiper}
       >
         {responsive.map((item) => (
@@ -23,6 +24,7 @@ export default function ResponsiveCarousel() {
             <div className={styles.detail}>
               <h2>{item.title}</h2>
               <p>{item.text}</p>
+              <a className={styles.web} href="https://react-criptos-lnf27.netlify.app/" target="_black">Visitar Web</a>
             </div>
           </div>
         ))}
