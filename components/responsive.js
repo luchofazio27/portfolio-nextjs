@@ -24,7 +24,7 @@ export default function ResponsiveCarousel() {
             <div className={styles.detail}>
               <h2>{item.title}</h2>
               <p>{item.text}</p>
-              <a className={styles.web} href="https://react-criptos-lnf27.netlify.app/" target="_black">Visitar Web</a>
+              <a className={styles.web} href={item.externalLink} target="_black">Visitar Web</a>
             </div>
           </div>
         ))}

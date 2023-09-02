@@ -5,19 +5,22 @@
         "id": 1,
         "title": "GuitarLA - Remix",
         "text": "Proyecto creado con Remix Run, creando una API con Strapi CMS con PostgreSQL y Cloudinary",
-        "backgroundImage": "/img/guitarLA.jpg"
+        "backgroundImage": "/img/guitarLA.jpg",
+        "externalLink": "https://guitarla-remix-lnf27.vercel.app"
       },
       {
         "id": 2,
-        "title": "Swiper Carousel Example",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quos mollitia sed quod consectetur at quam dolore praesentium neque eos assumenda iusto nam laborum laboriosam odio blanditiis possimus accusantium recusandae porro exercitationem itaque",
-        "backgroundImage": "/img/botellon.jpg"
+        "title": "React-control-gastos",
+        "text": "Control de presupuesto en React con Vite y LocalStorage",
+        "backgroundImage": "/img/planificadoDeGastos.jpg",
+        "externalLink": "https://react-control-gastos-lnf27.netlify.app/"
       },
       {
         "id": 3,
         "title": "React - Criptos",
         "text": "Proyecto React, Cotizador de Criptomonedas en Vite, Styled Components y Custom Hooks",
-        "backgroundImage": "/img/imagenCriptos.png"
+        "backgroundImage": "/img/imagenCriptos.png",
+        "externalLink": "https://react-criptos-lnf27.netlify.app/"
       }
     ]
   }
