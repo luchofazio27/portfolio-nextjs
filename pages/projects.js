@@ -2,7 +2,6 @@ import Layout from "@/components/layout"
 import Project from "@/components/project";
 
 export default function Projects({projects}) {
-    console.log(projects)
   return (
     <Layout title={'Mis Proyectos'} description="Proyectos trabajados">
       {projects.map(project => (
