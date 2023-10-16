@@ -12,15 +12,29 @@
         "id": 2,
         "title": "React-control-gastos",
         "text": "Control de presupuesto en React con Vite y LocalStorage",
-        "backgroundImage": "/img/planificadoDeGastos.jpg",
+        "backgroundImage": "/img/planidegastos.jpg",
         "externalLink": "https://react-control-gastos-lnf27.netlify.app/"
       },
       {
         "id": 3,
         "title": "React - Criptos",
         "text": "Proyecto React, Cotizador de Criptomonedas en Vite, Styled Components y Custom Hooks",
-        "backgroundImage": "/img/imagenCriptos.png",
+        "backgroundImage": "/img/criptomonedas.jpg",
         "externalLink": "https://react-criptos-lnf27.netlify.app/"
+      },
+      {
+        "id": 4,
+        "title": "GuitarLa-Next.js",
+        "text": "Proyecto creado con Next.JS, creando una API con Strapi CMS con PostgreSQL y Cloudinary",
+        "backgroundImage": "/img/cursos_bg.jpg",
+        "externalLink": "https://guitarla-next-js-snowy.vercel.app/"
+      },
+      {
+        "id": 5,
+        "title": "Citas-React-Vite",
+        "text": "Deployment del proyecto Citas en React con TailwindCSS, Vite",
+        "backgroundImage": "/img/agendaveterinaria.jpg",
+        "externalLink": "https://react-citas-veterinaria-lnf27.netlify.app/"
       }
     ]
   }

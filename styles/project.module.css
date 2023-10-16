@@ -1,0 +1,43 @@
+.project {
+    padding: 7rem 0;
+    margin-top: 1rem;
+    background-size: cover;
+    background-position: center center;
+}
+.title {
+  font-size: 4rem;
+  text-align: center;
+  font-weight: 900;
+  color: var(--white);
+  margin: 5rem 0;
+}
+@media (min-width: 768px) {
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .content {
+        grid-column: 2 / 3;
+    }
+}
+
+.project p {
+    text-align: center;
+    font-size: 2.4rem;
+    color: var(--white);
+}
+.navigation {
+    color: var(--white);
+    text-decoration: none;
+    font-size: 2.0rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 1rem;
+    transition-property: background-color;
+    transition-duration: 300ms;
+}
+.navigation:hover,
+.active {
+    background-color: var(--primary);
+}

@@ -26,6 +26,13 @@ export default function Header() {
           </Link>
 
           <Link
+            href="/projects"
+            className={router.pathname === "/projects" ? styles.active : ""}
+          >
+            Proyectos
+          </Link>
+
+          <Link
             href="/studies"
             className={router.pathname === "/studies" ? styles.active : ""}
           >
