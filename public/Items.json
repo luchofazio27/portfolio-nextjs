@@ -3,10 +3,10 @@
     "responsive": [
       {
         "id": 1,
-        "title": "GuitarLA - Remix",
-        "text": "Proyecto creado con Remix Run, creando una API con Strapi CMS con PostgreSQL y Cloudinary",
-        "backgroundImage": "/img/guitarLA.jpg",
-        "externalLink": "https://guitarla-remix-lnf27.vercel.app"
+        "title": "GuitarLa-Next.js",
+        "text": "Proyecto creado con Next.JS, creando una API con Strapi CMS con PostgreSQL y Cloudinary",
+        "backgroundImage": "/img/cursos_bg.jpg",
+        "externalLink": "https://guitarla-next-js-snowy.vercel.app/"
       },
       {
         "id": 2,
@@ -24,13 +24,6 @@
       },
       {
         "id": 4,
-        "title": "GuitarLa-Next.js",
-        "text": "Proyecto creado con Next.JS, creando una API con Strapi CMS con PostgreSQL y Cloudinary",
-        "backgroundImage": "/img/cursos_bg.jpg",
-        "externalLink": "https://guitarla-next-js-snowy.vercel.app/"
-      },
-      {
-        "id": 5,
         "title": "Citas-React-Vite",
         "text": "Deployment del proyecto Citas en React con TailwindCSS, Vite",
         "backgroundImage": "/img/agendaveterinaria.jpg",
