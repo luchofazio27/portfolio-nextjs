@@ -1,6 +1,4 @@
-import Link from "next/link";
 import Layout from "@/components/layout";
-import Carousel from "@/components/carousel";
 import styles from "../styles/index.module.css";
 import ResponsiveCarousel from "@/components/responsive";
 import Image from "next/image";

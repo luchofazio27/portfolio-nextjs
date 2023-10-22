@@ -11,9 +11,9 @@ export default function Header() {
       <div className={`container ${styles.bar}`}>
         <Link href={"/"}>
           <Image
-            src="/img/fotoCV.jpeg"
-            width={150}
-            height={30}
+            src="/img/fotocv1.jpg"
+            width={250}
+            height={50}
             alt="Foto de perfil"
           />
         </Link>

@@ -42,7 +42,7 @@ export default function Footer() {
         </Link>
         </nav>
         <h7 className={styles.copyright}>Sitio realizado con NextJS</h7>
-        <a className={styles.copyright} href="/CV-Luciano-Fazio-2023.pdf" download>Descargar mi CV</a>
+        <a className={styles.copyright} href="/CV Luciano Fazio.pdf" download>Descargar mi CV</a>
       </div>
     </footer>
   )
