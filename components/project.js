@@ -22,8 +22,5 @@ export default function Project({project}) {
         </div>
       </div>
     </section>
-    // <div>
-    //   <Image src={image.data.attributes.formats.medium.url} width={600} height={400} alt={`Imagen guitarra ${name}`} />
-    // </div>
   )
 }
