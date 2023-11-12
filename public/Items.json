@@ -28,6 +28,20 @@
         "text": "Deployment del proyecto Citas en React con TailwindCSS, Vite",
         "backgroundImage": "/img/agendaveterinaria.jpg",
         "externalLink": "https://react-citas-veterinaria-lnf27.netlify.app/"
+      },
+      {
+        "id": 5,
+        "title": "Cotizador de Seguro de Autos",
+        "text": "Proyecto en React utilizando Context API con TailwindCSS, Vite. En el mismo podemos cotizar el seguro para el auto",
+        "backgroundImage": "/img/seguroauto.jpg",
+        "externalLink": "https://cotizador-de-autos-lnf.netlify.app"
+      },
+      {
+        "id": 6,
+        "title": "Buscador de Clima",
+        "text": "Proyecto en React utilizando Context API con TailwindCSS. Obtenemos el clima desde una API",
+        "backgroundImage": "/img/clima.jpg",
+        "externalLink": "https://buscador-de-clima-lnf.netlify.app"
       }
     ]
   }
