@@ -25,12 +25,12 @@ export default function Header() {
             Inicio
           </Link>
 
-          <Link
+          {/* <Link
             href="/projects"
             className={router.pathname === "/projects" ? styles.active : ""}
           >
             Proyectos
-          </Link>
+          </Link> */}
 
           <Link
             href="/studies"

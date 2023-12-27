@@ -2,15 +2,8 @@
 "items": {
     "responsive": [
       {
-        "id": 1,
-        "title": "GuitarLa-Next.js",
-        "text": "Proyecto creado con Next.JS, creando una API con Strapi CMS con PostgreSQL y Cloudinary",
-        "backgroundImage": "/img/cursos_bg.jpg",
-        "externalLink": "https://guitarla-next-js-snowy.vercel.app/"
-      },
-      {
         "id": 2,
-        "title": "React-control-gastos",
+        "title": "Control de Gastos",
         "text": "Control de presupuesto en React con Vite y LocalStorage",
         "backgroundImage": "/img/planidegastos.jpg",
         "externalLink": "https://react-control-gastos-lnf27.netlify.app/"
@@ -24,7 +17,7 @@
       },
       {
         "id": 4,
-        "title": "Citas-React-Vite",
+        "title": "Agenda de Citas en Veterinaria",
         "text": "Deployment del proyecto Citas en React con TailwindCSS, Vite",
         "backgroundImage": "/img/agendaveterinaria.jpg",
         "externalLink": "https://react-citas-veterinaria-lnf27.netlify.app/"
@@ -42,6 +35,13 @@
         "text": "Proyecto en React utilizando Context API con TailwindCSS. Obtenemos el clima desde una API",
         "backgroundImage": "/img/clima.jpg",
         "externalLink": "https://buscador-de-clima-lnf.netlify.app"
+      },
+      {
+        "id": 7,
+        "title": "Buscador de Bebidas",
+        "text": "Proyecto buscador de bebidas utilizando React con Context API, Bootstrap y múltiples Provider",
+        "backgroundImage": "/img/bebidas.jpg",
+        "externalLink": "https://buscadordebebidas-lnf.netlify.app"
       }
     ]
   }
