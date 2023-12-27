@@ -1,3 +1,17 @@
+import React from 'react'
+
+const projects1 = () => {
+  return (
+    <div>
+      prueba
+    </div>
+  )
+}
+
+export default projects1
+
+
+
 // import Layout from "@/components/layout"
 // import Project from "@/components/project";
 
