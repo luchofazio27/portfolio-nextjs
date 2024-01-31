@@ -6,7 +6,7 @@
         "title": "Quiosco App",
         "text": "Proyecto realizado con Next.JS, Prisma y TailwindCSS",
         "backgroundImage": "/img/quiosco.jpg",
-        "externalLink": "https://https://quioscoapp-lnf.vercel.app/"
+        "externalLink": "https://quioscoapp-lnf.vercel.app/"
       },
       {
         "id": 2,
