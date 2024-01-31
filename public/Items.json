@@ -2,6 +2,13 @@
 "items": {
     "responsive": [
       {
+        "id": 1,
+        "title": "Quiosco App",
+        "text": "Proyecto realizado con Next.JS, Prisma y TailwindCSS",
+        "backgroundImage": "/img/quiosco.jpg",
+        "externalLink": "https://https://quioscoapp-lnf.vercel.app/"
+      },
+      {
         "id": 2,
         "title": "Control de Gastos",
         "text": "Control de presupuesto en React con Vite y LocalStorage",
@@ -10,7 +17,7 @@
       },
       {
         "id": 3,
-        "title": "React - Criptos",
+        "title": "Criptos",
         "text": "Proyecto React, Cotizador de Criptomonedas en Vite, Styled Components y Custom Hooks",
         "backgroundImage": "/img/criptomonedas.jpg",
         "externalLink": "https://react-criptos-lnf27.netlify.app/"
