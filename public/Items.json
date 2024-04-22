@@ -3,48 +3,55 @@
     "responsive": [
       {
         "id": 1,
+        "title": "GuitarLA",
+        "text": "Carrito de compras en React con Vite y TypeScript, utilizando custom Hooks y LocalStorage",
+        "backgroundImage": "/img/guitarLA.jpg",
+        "externalLink": "https://guitarla-ts-lnf.netlify.app"
+      },
+      {
+        "id": 2,
         "title": "Quiosco App",
         "text": "Proyecto realizado con Next.JS, Prisma y TailwindCSS",
         "backgroundImage": "/img/quiosco.jpg",
         "externalLink": "https://quioscoapp-lnf.vercel.app/"
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "Control de Gastos",
         "text": "Control de presupuesto en React con Vite y LocalStorage",
         "backgroundImage": "/img/planidegastos.jpg",
         "externalLink": "https://react-control-gastos-lnf27.netlify.app/"
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Criptos",
         "text": "Proyecto React, Cotizador de Criptomonedas en Vite, Styled Components y Custom Hooks",
         "backgroundImage": "/img/criptomonedas.jpg",
         "externalLink": "https://react-criptos-lnf27.netlify.app/"
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Agenda de Citas en Veterinaria",
         "text": "Deployment del proyecto Citas en React con TailwindCSS, Vite",
         "backgroundImage": "/img/agendaveterinaria.jpg",
         "externalLink": "https://react-citas-veterinaria-lnf27.netlify.app/"
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Cotizador de Seguro de Autos",
         "text": "Proyecto en React utilizando Context API con TailwindCSS, Vite. En el mismo podemos cotizar el seguro para el auto",
         "backgroundImage": "/img/seguroauto.jpg",
         "externalLink": "https://cotizador-de-autos-lnf.netlify.app"
       },
       {
-        "id": 6,
+        "id": 7,
         "title": "Buscador de Clima",
         "text": "Proyecto en React utilizando Context API con TailwindCSS. Obtenemos el clima desde una API",
         "backgroundImage": "/img/clima.jpg",
         "externalLink": "https://buscador-de-clima-lnf.netlify.app"
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Buscador de Bebidas",
         "text": "Proyecto buscador de bebidas utilizando React con Context API, Bootstrap y múltiples Provider",
         "backgroundImage": "/img/bebidas.jpg",
